@@ -56,7 +56,7 @@ public class BotClient extends Client{
                     format = "d";
                     break;
                 case "месяц":
-                    format = "MMMM";
+                    format = "M";
                     break;
                 case "год":
                     format = "YYYY";
